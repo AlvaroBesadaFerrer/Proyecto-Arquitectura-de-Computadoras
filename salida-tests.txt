@@ -1,0 +1,18 @@
+Ejecutando 15 programas en la placa...
+OK    ..\programs\arithmetic.asm  (6660 ciclos)
+OK    ..\programs\array_sum.asm  (875 ciclos)
+OK    ..\programs\branches.asm  (904 ciclos)
+OK    ..\programs\gcd.asm  (2712 ciclos)
+OK    ..\programs\hello.asm  (295 ciclos)
+OK    ..\programs\memory.asm  (5061 ciclos)
+OK    ..\programs\multiply.asm  (1887 ciclos)
+OK    ..\tests\01_aritmetica_logica.asm  (3260 ciclos)
+OK    ..\tests\02_comparaciones_desplazamientos.asm  (3841 ciclos)
+OK    ..\tests\03_memoria_bytes.asm  (3645 ciclos)
+OK    ..\tests\04_saltos_procedimientos.asm  (1152 ciclos)
+OK    ..\tests\05_aritmetica_cadenas.asm  (3949 ciclos)
+OK    ..\tests\06_reset_nop.asm  (2307 ciclos)
+OK    ..\tests\07_memoria_solapada.asm  (3999 ciclos)
+OK    ..\tests\08_pila_recursion_ramas.asm  (1777 ciclos)
+
+15/15 correctos
